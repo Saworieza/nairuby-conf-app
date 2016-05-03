@@ -1,22 +1,4 @@
-# Ionic 2 Conference Application
-
-This is purely a demo of Ionic 2. It is still in development.
-
-
-## Important!
-**There is not an actual Ionic Conference at this time.** This project is just to show off Ionic v2.0 components in a real-world application.
-Please go through the steps in [CONTRIBUTING.md](https://github.com/driftyco/ionic-conference-app/blob/master/.github/CONTRIBUTING.md) before submitting an issue.
-
-
-## Table of Contents
- - [Getting Started](#getting-started)
- - [Contributing](#contributing)
- - [App Preview](#app-preview)
-  - [iPhone 6](#iphone-6)
-  - [Nexus 5](#nexus-5)
- - [Use Cases](#use-cases)
- - [File Structure of App](#file-structure-of-app)
-
+# Nairuby Conference Application
 
 ## Getting Started
 
@@ -31,7 +13,7 @@ Please go through the steps in [CONTRIBUTING.md](https://github.com/driftyco/ion
 
 
 ## Contributing
-See [CONTRIBUTING.md](https://github.com/driftyco/ionic-conference-app/blob/master/CONTRIBUTING.md) :tada::+1:
+See [CONTRIBUTING.md](https://github.com/saworieza/nairuby-conference-app) :tada::+1:
 
 
 ## Use Cases
@@ -51,34 +33,6 @@ See [CONTRIBUTING.md](https://github.com/driftyco/ionic-conference-app/blob/mast
 * Sticky headers - [ [template](https://github.com/driftyco/ionic-conference-app/blob/master/app/pages/schedule/schedule.html#L34-L36) ]
 * Grid - [ [template](https://github.com/driftyco/ionic-conference-app/blob/master/app/pages/login/login.html#L26-L33) ]
 * Using Angular HTTP for JSON - [ [code](https://github.com/driftyco/ionic-conference-app/blob/master/app/providers/conference-data.js#L25-L30) | [usage](https://github.com/driftyco/ionic-conference-app/blob/master/app/pages/schedule/schedule.js#L36-L41) ]
-
-
-## App Preview
-
-### iPhone 6
-
-<!-- GIF of iOS app -->
-<img src="resources/gifs/ios.gif" alt="iOS"><br>
-<!-- images of iOS app -->
-<img src="resources/screenshots/iphone/1.png" alt="Sessions" width="425">
-<img src="resources/screenshots/iphone/2.png" alt="Filter Sessions" width="425">
-<img src="resources/screenshots/iphone/3.png" alt="Speakers" width="425">
-<img src="resources/screenshots/iphone/4.png" alt="Speaker Detail" width="425">
-<img src="resources/screenshots/iphone/5.png" alt="Map" width="425">
-<img src="resources/screenshots/iphone/6.png" alt="About" width="425">
-
-
-### Nexus 5
-
-<!-- GIF of MD app -->
-<img src="resources/gifs/nexus.gif" alt="MD"><br>
-<!-- GIF of MD app -->
-<img src="resources/screenshots/nexus/1.png" alt="Sessions" width="425">
-<img src="resources/screenshots/nexus/2.png" alt="Filter Sessions" width="425">
-<img src="resources/screenshots/nexus/3.png" alt="Speakers" width="425">
-<img src="resources/screenshots/nexus/4.png" alt="Speaker Detail" width="425">
-<img src="resources/screenshots/nexus/5.png" alt="Map" width="425">
-<img src="resources/screenshots/nexus/6.png" alt="About" width="425">
 
 
 ## File Structure of App
@@ -133,6 +87,12 @@ ionic-conference-app/
 │   │   │    ├── speaker-list.html     * SpeakerListPage template
 │   │   │    └── speaker-list.js       * SpeakerListPage code
 │   │   │    └── speaker-list.scss     * SpeakerListPage stylesheet
+|   |   |
+|   |   |── sponsors-page 
+│   │   │    ├── sponsor-list.html     * SponsorListPage template
+│   │   │    └── sponsor-list.js       * SponsorListPage code
+│   │   │    └── sponsor-list.scss     * SponsorListPage stylesheet
+│   │   │
 │   │   │
 │   │   │── tabs/                      * Tabs page
 │   │   │    ├── tabs.html             * TabsPage template

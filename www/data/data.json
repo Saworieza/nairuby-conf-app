@@ -2,16 +2,15 @@
 
   "schedule": [
     {
-      "date": "2047-05-17",
+      "date": "2016-May-05",
       "groups": [
         {
           "time": "8:00 am",
           "sessions": [
             {
-              "name": "Breakfast",
+              "name": "Registration and Networking  Breakfast",
               "timeStart": "8:00 am",
               "timeEnd": "9:00 am",
-              "location": "Main hallway",
               "tracks": ["Food"]
             }
           ]
@@ -20,109 +19,50 @@
           "time": "9:00 am",
           "sessions": [
             {
-              "name": "Introduction to Appcamp.io",
+              "name": "Nurturing  Entrepreneurship  through Open  Source  Culture",
               "location": "Room 2203",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Brandy Carney"],
+              "speakerNames": ["Ray Hightower"],
               "timeStart": "9:00 am",
-              "timeEnd": "9:30 am",
-              "tracks": ["Ionic"]
-            },
-            {
-              "name": "Getting started with Ionic",
-              "location": "Room 2202",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Max Lynch"],
-              "timeStart": "9:30 am",
               "timeEnd": "9:45 am",
-              "tracks": ["Ionic"]
+              "tracks": ["Entrepreneurship"]
             },
             {
-              "name": "Tooling for Ionic",
-              "location": "Room 2201",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Tim Lancina"],
+              "name": "CI & CD Demystified",
+              "location": "Room 2202",
+              "description": "CI & CD Demystified ",
+              "speakerNames": ["Kelvin Mutuma"],
               "timeStart": "9:45 am",
-              "timeEnd": "10:00 am",
-              "tracks": ["Tooling"]
+              "timeEnd": "10:45 am",
+              "tracks": ["Development"]
             }
           ]
         },
         {
-          "time": "10:00 am",
+          "time": "10:45 am",
           "sessions": [
             {
-              "name": "Migrating to Ionic2",
-              "description": "We will be focused on how to install the Ionic V2 CLI, how to start a new app, and how to serve/emulate/run the application on a native device.",
-              "location": "Room 2201",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Adam Bradley", "Mike Hartington"],
-              "timeStart": "10:00 am",
-              "timeEnd": "10:15 am",
-              "tracks": ["Ionic"]
-            },
-            {
-              "name": "The evolution of Ionicons",
-              "location": "Room 2202",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Ben Sperry", "Adam Bradley"],
-              "timeStart": "10:15 am",
-              "timeEnd": "10:30 am",
-              "tracks": ["Design"]
-            },
-            {
-              "name": "Ionic.io Services",
-              "location": "Room 2202",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Eric Bobbitt"],
-              "timeStart": "10:30 am",
+              "name": "Break",
+              "timeStart": "10:45 am",
               "timeEnd": "11:00 am",
-              "tracks": ["Services"]
-            }
-          ]
-        },
-        {
-          "time": "11:00 am",
-          "sessions": [
+              "tracks": ["Food"]
+            },
             {
-              "name": "Ionic Workshop",
+              "name": "Catch  Me  If  You Can",
               "location": "Room 2201",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Perry Govier", "Mike Hartington"],
+              "description": " Catch Me  If  You Can:  Improving the Perception  of  Contrast  by  Introducing the Convergence of  Retinal Neurons",
+              "speakerNames": ["Dr. Kendi Muchugi"],
               "timeStart": "11:00 am",
               "timeEnd": "11:45 am",
-              "tracks": ["Workshop"]
+              "tracks": ["Development"]
             },
             {
-              "name": "Community Interaction",
-              "location": "Room 2203",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Mike Hartington", "Katie Ginder-Vogel"],
-              "timeStart": "11:30 am",
-              "timeEnd": "11:50 am",
-              "tracks": ["Communication"]
-            },
-            {
-              "name": "Navigation in Ionic",
-              "location": "Room 2203",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Tim Lancina", "Adam Bradley"],
-              "timeStart": "11:30 am",
-              "timeEnd": "12:00 pm",
-              "tracks": ["Navigation"]
-            }
-          ]
-        },
-        {
-          "time": "12:00 pm",
-          "sessions": [
-            {
-              "name": "Lunch",
-              "location": "Auditorium",
-              "description": "Come grab lunch with all the Ionic fanatics and talk all things Ionic",
-              "timeStart": "12:00 pm",
+              "name": "Automating Releases  for Ruby  on  Rails",
+              "location": "Room 2201",
+              "description": "Automating  Releases  for Ruby  on  Rails Application on  Productions Servers ",
+              "speakerNames": ["Kenneth Kinyanjui"],
+              "timeStart": "11:45 am",
               "timeEnd": "1:00 pm",
-              "tracks": ["Food"]
+              "tracks": ["Development"]
             }
           ]
         },
@@ -130,31 +70,12 @@
           "time": "1:00 pm",
           "sessions": [
             {
-              "name": "Ionic in the Enterprise",
-              "location": "Room 2201",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Brody Kidd"],
+              "name": "Lunch",
+              "location": "Auditorium",
+              "description": "Come grab lunch with all the Ruby fanatics and talk all things Ruby and Entrepreneurship",
               "timeStart": "1:00 pm",
-              "timeEnd": "1:15 pm",
-              "tracks": ["Communication"]
-            },
-            {
-              "name": "Ionic Worldwide",
-              "location": "Room 2201",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Katie Ginder-Vogel"],
-              "timeStart": "1:15 pm",
-              "timeEnd": "1:30 pm",
-              "tracks": ["Communication"]
-            },
-            {
-              "name": "The Ionic package service",
-              "location": "Room 2203",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Dan Imhoff", "Rudy Pelrine"],
-              "timeStart": "1:30 pm",
               "timeEnd": "2:00 pm",
-              "tracks": ["Services"]
+              "tracks": ["Food"]
             }
           ]
         },
@@ -162,152 +83,125 @@
           "time": "2:00 pm",
           "sessions": [
             {
-              "name": "Push Notifications in Ionic",
-              "location": "Room 2202",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Rudy Pelrine", "Eric Bobbitt"],
-              "timeStart": "2:00 pm",
-              "timeEnd": "2:30 pm",
-              "tracks": ["Services"]
-            },
-            {
-              "name": "Ionic Documentation",
-              "location": "Room 2202",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Drew Rygh"],
-              "timeStart": "2:30 pm",
-              "timeEnd": "2:45 pm",
-              "tracks": ["Documentation"]
-            },
-            {
-              "name": "UX planning in Ionic",
-              "location": "Room 2203",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Ben Sperry", "Brandy Carney"],
+              "name": "Prototype",
+              "location": "Room 2201",
+              "description": "Prototyping for The Enterprise",
+              "speakerNames": ["Michael Kimathi"],
               "timeStart": "2:45 pm",
-              "timeEnd": "3:00 pm",
-              "tracks": ["Design"]
+              "timeEnd": "3:30 pm",
+              "tracks": ["Entrepreneurship"]
+            },
+            {
+              "name": "Case Study:  Taka  Smart Project Case  Study ",
+              "location": "Room 2203",
+              "description": "Case  Study:  Taka  Smart Project Case  Study ",
+              "speakerNames": ["Clement Habinshuti"],
+              "timeStart": "3:30 pm",
+              "timeEnd": "4:15 pm",
+              "tracks": ["Entrepreneurship"]
+            }
+          ]
+        },
+
+        {
+          "time": "4.15 pm",
+          "sessions": [
+            {
+              "name": "Break",
+              "location": "Auditorium",
+              "description": "Short Interactions between Attendes before Session closes",
+              "timeStart": "4:15 pm",
+              "timeEnd": "4:30 pm",
+              "tracks": ["Food"]
             }
           ]
         },
         {
-          "time": "3:00",
+          "time": "4:30",
           "sessions": [
             {
-              "name": "Directives in Ionic",
+              "name": "Closing Remark",
               "location": "Room 2201",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Max Lynch"],
-              "timeStart": "3:00 pm",
-              "timeEnd": "3:30 pm",
-              "tracks": ["Angular"]
-            },
-            {
-              "name": "Mobile States",
-              "location": "Room 2202",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Tim Lancina"],
-              "timeStart": "3:30 pm",
-              "timeEnd": "3:45 pm",
-              "tracks": ["Navigation"]
+              "description": "Closing Remarks by the hosts",
+              "speakerNames": ["Michael Kimathi"],
+              "timeStart": "4:30 pm",
+              "tracks": ["Closing"]
             }
           ]
         }
       ]
     }
   ],
-
+  
 
   "speakers": [
     {
-      "name": "Eric Bobbitt",
-      "profilePic": "https://avatars3.githubusercontent.com/u/19638?v=3",
-      "twitter": "ericbobbitt",
-      "about": "When he's not arguing semantics, dancing at all the wrong times, or drawing randomly on the office whiteboards, you'll find him working on the Ionic Platform, planning new features, and not-so-silently cursing at his laptop. Otherwise he's probably feeding his gaming addiction with a glass of whiskey or a good Belgian beer.",
-      "location": "Madison, WI"
+      "name": "Ray Hightower",
+      "profilePic": "http://rubyconf.nairuby.org/images/2016/speakers/raymond.jpg",
+      "twitter": "RayHightower",
+      "about": "Ray Hightower is a software developer, open source hardware enthusiast, founder of WisdomGroup, and organizer of ChicagoRuby, WindyCityRails, & WindyCityThings. He has visited every state in the USA and most continents on planet Earth. He studied Computer Science and Engineering at the University of Illinois at Urbana-Champaign, and completed his Bachelors in Computer Science at the University of Illinois at Chicago.",
+      "location": "Unites States"
     },
     {
-      "name": "Adam Bradley",
-      "profilePic": "https://avatars2.githubusercontent.com/u/452425?v=3",
-      "twitter": "adamdbradley",
-      "about": "Co-creator of Ionic Framework and Angular Material Design team member. Regularly writes and speaks about hybrid development with Ionic and Angular. Proud dad, husband, veteran, and dog's best friend. Based in beautiful Madison, WI.",
-      "location": "Madison, WI"
+      "name": "Michael Kimathi",
+      "profilePic": "http://rubyconf.nairuby.org/images/2016/speakers/michael.jpg",
+      "twitter": "mikekimmathi",
+      "about": "Michael Kimathi has over 7 years experience working in innovative ecosystems and building solutions notably with BlackBerry Developer Community, Nairuby, Masomomoja, GDG, Unbound, University of Nairobi, StartupBlink, BantaMik and Atlassian. Currently, he is an entrepreneur learning from his past failures and developing better solutions which will impact the world we are living in. Previously, he was the Community Development Manager at C4DLab, where he worked closely with team C4DLab to develop innovation strategy, Partnership and change the University culture from the old status quo way of doing things to one at the forefront of innovation, he mentored startups, hosted events, organized entrepreneurship mechanics related talks with distinguished industry entrepreneurs.",
+      "location": "Nairobi, Kenya"
     },
     {
-      "name": "Brandy Carney",
-      "profilePic": "https://avatars0.githubusercontent.com/u/6577830?v=3",
-      "twitter": "brandyscarney",
-      "about": "When she isn't busy keeping her two chihuahuas from killing each other, Brandy can be found making the Ionic SDK pretty by means of Sass. She loves helping people while continuing to expand her own knowledge. After hours she can be found on her patio shopping online with a glass of wine in hand. Give her a glass and she'll write some Sass.",
-      "location": "Jacksonville, FL"
+      "name": "Manoj Changarampatt",
+      "profilePic": "http://rubyconf.nairuby.org/images/2016/speakers/manoj.jpg",
+      "about": "Manoj is a business visionary and an independent consultant specializing in building up brands, ecosystems and executing turn-arounds. He lives in Nairobi and he has experience across East & West Africa as well as the Middle East. Having previously worked with Samsung and Nokia, he has a bias towards telecom and technology ventures but can lend support to companies that require retail and distribution expertise as well. After 25 years of corporate experience, he has delved into entrepreneurship with ventures like SavannaByte.com whilst advising entrepreneurs and startups across Nairobi.",
+      "location": "Nairobi, Kenya"
     },
     {
-      "name": "Katie Ginder-Vogel",
-      "profilePic": "https://avatars2.githubusercontent.com/u/8117985?v=3",
-      "twitter": "katiegv",
-      "about": "Katie handles Ionic’s marketing, communications, and editorial, writing blog posts about unique Ionic apps and dreaming up new ways to bring Ionic to developers around the world. Outside the office, she can be found on land, running or hiking, or in the water, swimming and paddleboarding.",
-      "location": "Madison, WI"
+      "name": "Dr. Kendi Muchugi",
+      "profilePic": "http://rubyconf.nairuby.org/images/2016/speakers/kendi.jpg",
+      "twitter": "africanazarene",
+      "about": "Dr. Kendi is Computer Science graduate from ANU and a holder of masters degree in Information Systems from the University of Surrey. Her doctoral research is in the field of computational neuroscience and primarily involves computational representation of visual processing within the retina, whilst simulating involvement of retina lateral neurons and allowing the convergence of Rod and Cone systems for the purpose of informing the design and development of retinal prosthesis.",
+      "location": "Nairobi, Kenya"
     },
     {
-      "name": "Perry Govier",
-      "profilePic": "https://avatars1.githubusercontent.com/u/571056?v=3",
-      "twitter": "perrygovier",
-      "about": "Be it code, places, gadgets, food, or conversation, Perry loves to explore. While AFK he's probably biking around Madison, spending time with his wife and son, \"refactoring\" his house, or avoiding his overweight cat to whom he is very allergic and wishes was a dog.",
-      "location": "Madison, WI"
+      "name": "Bernard Banta",
+      "profilePic": "http://rubyconf.nairuby.org/images/2016/speakers/banta.jpg",
+      "twitter": "bantaB",
+      "about": "A Computer Scientist and true entrepreneur, he is the founder of Banta Technologies (BT). He has always been passionate about technology and how it can be used to leverage and transform Africa in the way we live, work, play and govern. When it comes to building, his ultimate goal is to make the world a better place. Banta is an entrepreneur and an engineer on the bleeding edge of technology.",
+      "location": "Nairobi, Kenya"
     },
     {
-      "name": "Mike Hartington",
-      "profilePic": "https://avatars0.githubusercontent.com/u/2835826?v=3",
-      "twitter": "mhartington",
-      "about": "Deep in the frozen North, just before the great wall, a man sits with a laptop, surrounded by serval cups of coffee and a glass of whiskey. Traveling across this great kingdom, he enlightens other devs and shares his knowledge through the written and spoken word. When the laptop is not near, he often finds solace in music with his guitar.",
-      "location": "Rhode Island"
+      "name": "Alvin Kato",
+      "profilePic": "http://rubyconf.nairuby.org/images/2015/speakers/alvin_kato.jpg",
+      "twitter": "alvinkatojr",
+      "about": "Introduced to programming by a close friend, Alvin abandoned an academic career as an Economist/Statistician for a keyboard and a black screen where he fell in love with ruby and the wonders of rails. His current mission is to transfer this same joy and enthusiasm for coding into the hearts of others.",
+      "location": "Nairobi, Kenya"
     },
     {
-      "name": "Dan Imhoff",
-      "profilePic": "https://pbs.twimg.com/profile_images/627907755743952896/TEEur1pK.jpg",
-      "twitter": "dwieeb",
-      "about": "Dan \"the Sunshine Man\" builds awesome stuff for the Ionic Platform. When not shredding it in Vim, he can be found tearing over snow in his fat bike, attending the Madison tech meetups, ignorantly rating restaurants, taking a bunch of photographs at random cities and National Parks, or, possibly, still playing LEGOs.",
-      "location": "Madison, WI"
+      "name": "Kelvin Mutuma",
+      "profilePic": "http://rubyconf.nairuby.org/images/2016/speakers/mutuma.jpeg",
+      "twitter": "KelvinMutuma",
+      "about": "FIFA Addict, novel enthusiast, adept coder, reactive and natural, ruby && general FOSS enthusiast. Abacus | GitLab",
+      "location": "Nairobi, Kenya"
     },
     {
-      "name": "Brody Kidd",
-      "profilePic": "https://avatars0.githubusercontent.com/u/5280265?v=3",
-      "twitter": "brodymkidd",
-      "about": "If you can’t find him on call, shuffling through email, poking around on a new CRM, in our live chat support, or white boarding new business development… Odds are he is surfing lake Michigan, fly fishing the gin clear streams of the driftless region, camping in the north woods, or milking his goats.",
-      "location": "Madison, WI"
+      "name": "Eugene Mutai",
+      "profilePic": "http://rubyconf.nairuby.org/images/2015/speakers/eugene.jpg",
+      "twitter": "JheneKnights",
+      "about": "Eugene perceives the day he became curious with how Facebook works a calling to greatness. Since then he has self-developed skills by challenging himself with global standards set by guys like Paul Irish and the rest. Eugene has worked in tonnes of project from data analysis, hybrid html5 apps ranging from Android to Blackberry, and finally his favorite web apps. He has expansive knowledge in what it takes to build/powerful web application from architecture, technologies and tools. He is the Nairobi JavaScript Community(user-group) Lead and a consultant at iHub. Also an enthusiast in what they offer the community, thus happy in contributing all what he can.",
+      "location": "Nairobi, Kenya"
     },
     {
-      "name": "Tim Lancina",
-      "profilePic": "https://avatars2.githubusercontent.com/u/804331?v=3",
-      "twitter": "timlancina",
-      "about": "A temporarily embarrassed pro soccer player, Tim is fond of traveling the world and trying to convince his coworkers to eat bugs.  When not doing either of those, he is usually breaking things related to Ionic tooling, the platform, or the framework.",
-      "location": "Madison, WI"
+      "name": "Kenneth Kinyanjui",
+      "profilePic": "http://kennethkinyanjui.info/images/kenneth.png",
+      "twitter": "kenju254",
+      "about": "Kenneth is a Software Engineer, Mentor and Entrepreneur. He is CTO and Co-founder of Infinity Space Inc., an African Company based in Kenya, France and Cameroon. He has also been a consultant for iHub Consulting in Nairobi. As a GDG country mentor, Kenneth has been helping build the Kenyan GDG Community across the country. An active developer and community manager, Kenneth loves contributing to open source projects, facilitating code labs on Google Cloud Platform and mentoring junior developers   .",
+      "location": "Nairobi, Kenya"
     },
     {
-      "name": "Max Lynch",
-      "profilePic": "https://avatars3.githubusercontent.com/u/11214?v=3",
-      "twitter": "maxlynch",
-      "about": "Max loves using the power of software to make technology more accessible to people around the world. When not writing code or obsessing over a crazy new idea, he can be found watching the Premier League, riding Snowmobiles in a very safe manner, and hanging out with his wife Melissa and two Cavalier King Charles Spaniels.",
-      "location": "Madison, WI"
-    },
-    {
-      "name": "Rudy Pelrine",
-      "profilePic": "https://avatars0.githubusercontent.com/u/1584992?v=3",
-      "twitter": "Drawn_Closer",
-      "about": "A musician, DJ, sound engineer, photographer, and self proclaimed fashion nerd, Rudy seems to find a new obsession daily.  At Ionic, you'll find him working on the Platform services, making sure everyone's notifications arrive safe and sound.",
-      "location": "Madison, WI"
-    },
-    {
-      "name": "Drew Rygh",
-      "profilePic": "https://avatars2.githubusercontent.com/u/2018508?v=3",
-      "twitter": "ionicframework",
-      "about": "On most days, you will find Drew devising dazzling demos, drafting documentation, and consuming copious quantities of caffeine. He is obsessed with clarity, and making Ionic easy and fun to use. When not working, you might find him walking around the UW-Madison campus, where he is studying philosophy and computer science.",
-      "location": "Madison, WI"
-    },
-    {
-      "name": "Ben Sperry",
-      "profilePic": "https://avatars1.githubusercontent.com/u/519526?v=3",
-      "twitter": "benjsperry",
-      "about": "Ben is a user interface designer and front end tinkerer based in Madison, WI. He’s fascinated with making delightful human and machine interactions. He is also the co-founder of Ionic.",
+      "name": "Wycliffe Sawo",
+      "profilePic": "http://rubyconf.nairuby.org/images/2015/speakers/sawo.jpg",
+      "twitter": "SawoFilush",
+      "about": "Sawo is a great lover of code and the amazing things that can be done with it. He has a bias for developing web apps using ruby on rails and currently he is the lead code slinger for BlueGate Technologies. He likes spending his weekends teaching mobile development to GDG M.M.U. His favourite quote, It's not the product, its what you can do with it. ",
       "location": "Madison, WI"
     }
   ],
@@ -316,19 +210,19 @@
   "map": [
     {
       "name": "Monona Terrace Convention Center",
-      "lat": 43.071584,
-      "lng": -89.380120,
+      "lat": -1.3939,
+      "lng": 36.7442,
       "center": true
     },
     {
       "name": "Ionic HQ",
-      "lat": 43.074395,
-      "lng": -89.381056
+      "lat": -1.3939,
+      "lng": 36.7442
     },
     {
       "name": "Afterparty - Brocach Irish Pub",
-      "lat": 43.07336,
-      "lng": -89.38335
+      "lat": -1.3939,
+      "lng": 36.7442
     }
   ]
 

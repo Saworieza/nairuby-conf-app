@@ -45,6 +45,7 @@ class ConferenceApp {
       { title: 'Speakers', component: TabsPage, index: 1, icon: 'contacts' },
       { title: 'Map', component: TabsPage, index: 2, icon: 'map' },
       { title: 'About', component: TabsPage, index: 3, icon: 'information-circle' },
+      { title: 'Sponsors', component: TabsPage, index: 4, icon: 'calendar'}
     ];
 
     this.loggedInPages = [
